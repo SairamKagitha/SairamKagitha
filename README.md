@@ -4,7 +4,7 @@
 - 💞️ I’m open to Web Development projects and looking to collaborate with clients
 - 📫 you can reach me at sairamkagitha5@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: you just wasted 2 mims by reading this.
 
 <!---
 SairamKagitha/SairamKagitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
