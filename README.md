@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SairamKagitha
 - 👀 I’m interested in Game Engine Development and Web Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - 💞️ I’m open to Web Development projects and looking to collaborate with clients
 - 📫 you can reach me at sairamkagitha5@gmail.com
 - 😄 Pronouns: He
