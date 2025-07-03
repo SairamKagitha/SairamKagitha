@@ -1,16 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m @SairamKagitha
+- 👀 I’m interested in Game Engine Development and Web Development
+- 🌱 I’m currently learning Rust
+- 💞️ I’m open to Web Development projects and looking to collaborate with clients
+- 📫 you can reach me at sairamkagitha5@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: you just wasted 2 mims by reading this.
 
-<!--
-**SairamKagitha/SairamKagitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+SairamKagitha/SairamKagitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
